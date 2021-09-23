@@ -1,1 +1,1 @@
-# netflixclone2.github..io
+# netflixclone2.github.io
